@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Text Sampler</string>
+
+    <string name="color_0">Red</string>
+    <string name="color_1">Yellow</string>
+    <string name="color_2">Green</string>
+
+    <string name="size_0">10</string>
+    <string name="size_1">16</string>
+    <string name="size_2">24</string>
+
+    <string name="font_0">aguafina_script</string>
+    <string name="font_1">almendra_display</string>
+    <string name="font_2">arizonia</string>
+    <string name="font_3">clicker_script</string>
+
+    <string name="_short">short</string>
+    <string name="_medium">medium</string>
+    <string name="_long">long</string>
+</resources>

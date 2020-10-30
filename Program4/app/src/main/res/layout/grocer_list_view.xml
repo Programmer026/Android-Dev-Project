@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/nameTV"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_weight="0.5"
+        android:fontFamily="@font/bilbo_swash_caps"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/amountTV"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_marginStart="20dp"
+        android:layout_weight="0.5"
+        android:fontFamily="@font/bilbo_swash_caps"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/storeTV"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_marginStart="20dp"
+        android:layout_weight="0.5"
+        android:fontFamily="@font/bilbo_swash_caps"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textSize="14sp" />
+
+</LinearLayout>
